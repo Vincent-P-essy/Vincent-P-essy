@@ -1,6 +1,6 @@
 # Bonjour, moi c’est Vincent Plessy
 
-🎓 Étudiant en informatique, futur L3 — passionné par le développement logiciel, les bases de données et les technologies back-end.
+🎓 Étudiant en L3 informatique — passionné par le développement logiciel, les bases de données et les technologies back-end.
 
 💻 Je code principalement en **Python**, **C**, et **SQL** sous Linux.  
 🛠️ J’ai déjà réalisé plusieurs projets personnels et universitaires, dont :
