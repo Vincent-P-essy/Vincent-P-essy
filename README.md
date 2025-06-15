@@ -15,7 +15,7 @@
 - Bash / C / Git / GitHub
 - Linux (Debian, Mint)
 
-📫 Vous pouvez me contacter sur GitHub ou sur LinkedIn *(si tu veux l’ajouter ici)*
+📫 Vous pouvez me contacter sur GitHub ou sur LinkedIn :
 
 www.linkedin.com/in/vincent-plessy-99852a36b
 
