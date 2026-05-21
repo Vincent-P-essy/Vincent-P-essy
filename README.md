@@ -115,7 +115,7 @@ To act as a technical bridge between business needs and practical tools, deliver
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/vincent-plessy  
+- LinkedIn:  https://www.linkedin.com/in/vincent-plessy-99852a36b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: vincent.plessy@etu.univ-eiffel.fr  
 
 ---
