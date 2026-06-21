@@ -105,6 +105,14 @@ To act as a technical bridge between business needs and practical tools, deliver
 
 ---
 
+## 🐍 Contributions Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vincent-P-essy/Vincent-P-essy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 
 ## GitHub Stats
 
