@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "root": ".",
+      "label": "Vincent-P-essy",
+      "caption": "Browser rendering of the repository documentation. This repository contains no standalone application to execute.",
+      "setup": [],
+      "commands": [],
+      "documentation": true
+    }
+  ]
+}
