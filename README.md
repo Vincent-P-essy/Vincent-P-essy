@@ -23,7 +23,21 @@ Ancien Alternant Data & Automation @ <strong>SNCF Voyageurs</strong> | L3 Comput
   <li>🐧 Linux user</li>
 </ul>
 
-<blockquote>Je ne construis pas des projets vitrines, je conçois des systèmes d'infrastructure et de sécurité applicative résilients, interconnectés et prêts pour la production.</blockquote>
+<blockquote>Projets en C, Java et Python autour des systèmes, des jeux et de la sécurité applicative.</blockquote>
+
+<hr>
+
+<h2>Selected projects</h2>
+
+| Project | Technical focus |
+|---|---|
+| [BackPack Hero](https://github.com/Vincent-P-essy/BackPackHero) | Java, turn-based combat, inventory and equipment |
+| [Minecraft Clone](https://github.com/Vincent-P-essy/minecraft-clone) | TypeScript, WebGL, voxel generation and block interaction |
+| [CyberPass](https://github.com/Vincent-P-essy/CyberPass) | Next.js frontend and FastAPI backend for security evidence |
+| [Memory allocator](https://github.com/Vincent-P-essy/mini-projet-allocateur-de-m-moire) | C, manual memory management and linked blocks |
+| [Kernel Sentinel](https://github.com/Vincent-P-essy/kernel-sentinel) | Go, eBPF and event replay for security detection |
+
+![BackPack Hero turn-based combat](https://raw.githubusercontent.com/Vincent-P-essy/BackPackHero/main/docs/screenshots/turn-based-combat.png)
 
 <hr>
 
@@ -82,7 +96,7 @@ Plutôt que des dépôts isolés, mon GitHub héberge un écosystème complet de
 <h2>💼 Expérience Terrain</h2>
 <ul>
   <li><strong>SNCF Voyageurs (Transilien)</strong> : Scénar'Express — application d'aide à la décision temps réel au COT. Power BI, automatisation.</li>
-  <li><strong><a href="https://github.com/Vincent-P-essy/Apex_3D">Apex 3D</a></strong> : Co-fondateur e-commerce, site complet HTML/CSS/JS + chatbot IA.</li>
+  <li><strong><a href="https://github.com/Vincent-P-essy/Apex_3D">Apex 3D</a></strong> : Co-fondateur e-commerce, site de catalogue HTML/CSS/JS avec réponses prédéfinies dans le chat.</li>
 </ul>
 
 <hr>
