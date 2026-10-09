@@ -1,4 +1,7 @@
-![Vincent Plessy — Security tooling, automation and systems](assets/profile-header.svg)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-header.png">
+  <img src="assets/profile-header.gif" alt="Vincent Plessy — Security tooling, automation and systems" width="1200">
+</picture>
 
 <p>
   <a href="https://www.linkedin.com/in/vincent-plessy-99852a36b">LinkedIn</a> &nbsp;·&nbsp;
@@ -6,6 +9,8 @@
   <a href="https://medium.com/@vincent.plessy12">Writing</a> &nbsp;·&nbsp;
   <a href="mailto:vincent.plessy12@gmail.com">Email</a>
 </p>
+
+### Security tooling. Automation. Systems.
 
 I build tools that turn operational needs into usable software: security applications, workflow automation and offline web applications.
 
@@ -28,6 +33,12 @@ Internal web applications and offline PWAs for operational teams, alongside Powe
 **Apex 3D · Co-founder & frontend developer**
 
 Designed and developed a responsive product-catalogue website in HTML, CSS and JavaScript, deployed with GitHub Pages.
+
+## Engineering focus
+
+| Security tooling | Operational automation | Systems foundations |
+| :--- | :--- | :--- |
+| Audit trails, incident workflows, authentication and detection rules | Reusable security checks, reporting and offline decision-support tools | C, memory management, network parsing and Linux |
 
 ## Selected technical projects
 
@@ -63,6 +74,13 @@ Personal projects and technical demonstrations, distinct from my work at Sociét
 - [Kernel Sentinel](https://github.com/Vincent-P-essy/kernel-sentinel) — security-detection experiments with Go and eBPF.
 
 </details>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vincent-P-essy/Vincent-P-essy/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vincent-P-essy/Vincent-P-essy/output/github-contribution-grid-snake.svg" alt="Animated view of GitHub contributions" width="100%">
+</picture>
 
 ---
 
