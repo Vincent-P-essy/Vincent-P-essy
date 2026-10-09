@@ -14,7 +14,7 @@
 
 I build tools that turn operational needs into usable software: security applications, workflow automation and offline web applications.
 
-**Cybersecurity engineering apprentice at Société Générale since October 2026**, focused on security tooling and automation, alongside my MSc at Epitech Paris. Previously, I developed internal applications and reporting tools during my apprenticeship at SNCF Voyageurs.
+**Security Engineer Apprentice at Société Générale since October 2026**, focused on security tooling and automation, alongside my MSc at Epitech Paris. Previously, I developed internal applications and reporting tools during my apprenticeship at SNCF Voyageurs.
 
 My technical interests connect **security tooling, automation and systems**, with hands-on projects in Python, C#/.NET, C and Linux.
 
@@ -22,13 +22,13 @@ My technical interests connect **security tooling, automation and systems**, wit
 
 ## Experience
 
-**Société Générale · Cybersecurity engineering apprenticeship — tooling & automation**
+**Société Générale · Security Engineer Apprentice — Tooling & Automation**
 
-Internal security applications, cybersecurity process automation, cyber-risk dashboards and technical documentation, within the Information Security & Risks and Group CyberSec Tooling teams.
+Security tooling for Group teams internationally, within Cybersec Tooling. My scope combines application and API development, security controls, automation, CI/CD and secure deployment, with technical autonomy over solution design and technology choices discussed with the team.
 
-**SNCF Voyageurs · Web application development & automation apprenticeship**
+**SNCF Voyageurs · Application Developer Apprentice — Web, Android & Automation**
 
-Internal web applications and offline PWAs for operational teams, alongside Power BI reporting and Excel/VBA automation. One example is **Scénar’Express**, an offline decision-support application for railway incidents, with an interactive map, local search and PDF procedures.
+Internal applications for operational teams, alongside Power BI reporting and Excel/VBA automation. I designed and developed **Scénar’Express**, a railway-incident decision-support application that evolved from Power Apps to an offline PWA and then Android using Capacitor. Its interactive SVG railway map links selected zones and tracks to operational procedures, with PDF.js document viewing.
 
 **Apex 3D · Co-founder & frontend developer**
 
@@ -60,7 +60,7 @@ Personal projects and technical demonstrations, distinct from my work at Sociét
 | Backend | Python · Flask · C#/.NET · SQL · PostgreSQL |
 | Systems & networks | C · Linux · Bash · Wireshark |
 | Development & delivery | Git · Docker · GitHub Actions · automated tests |
-| Operational applications | JavaScript · HTML/CSS · PWAs · Power BI · Excel/VBA |
+| Operational applications | JavaScript · HTML/CSS · SVG · PDF.js · PWAs · Capacitor · Power BI · Excel/VBA |
 | Other programming experience | Java · TypeScript |
 
 **Certifications:** Microsoft SC-900 · Google Cybersecurity Professional Certificate · Fortinet Certified Fundamentals in Cybersecurity.
