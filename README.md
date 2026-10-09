@@ -14,7 +14,7 @@
 
 I build tools that turn operational needs into usable software: security applications, workflow automation and offline web applications.
 
-**Cybersecurity software engineering apprentice at Société Générale since October 2026**, alongside my MSc at Epitech Paris. Previously, I developed internal applications and reporting tools during my apprenticeship at SNCF Voyageurs.
+**Cybersecurity engineering apprentice at Société Générale since October 2026**, focused on security tooling and automation, alongside my MSc at Epitech Paris. Previously, I developed internal applications and reporting tools during my apprenticeship at SNCF Voyageurs.
 
 My technical interests connect **security tooling, automation and systems**, with hands-on projects in Python, C#/.NET, C and Linux.
 
@@ -22,11 +22,11 @@ My technical interests connect **security tooling, automation and systems**, wit
 
 ## Experience
 
-**Société Générale · Cybersecurity software engineering apprenticeship**
+**Société Générale · Cybersecurity engineering apprenticeship — tooling & automation**
 
 Internal security applications, cybersecurity process automation, cyber-risk dashboards and technical documentation, within the Information Security & Risks and Group CyberSec Tooling teams.
 
-**SNCF Voyageurs · Software development & automation apprenticeship**
+**SNCF Voyageurs · Web application development & automation apprenticeship**
 
 Internal web applications and offline PWAs for operational teams, alongside Power BI reporting and Excel/VBA automation. One example is **Scénar’Express**, an offline decision-support application for railway incidents, with an interactive map, local search and PDF procedures.
 
