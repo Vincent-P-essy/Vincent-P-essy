@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Vincent Plessy — Security tooling, automation and systems</title>
+  <desc id="desc">A navy banner with Vincent Plessy's name, technical focus and a diagram linking signals, controls and tools.</desc>
+  <rect width="1200" height="300" rx="8" fill="#101c2c"/>
+  <path d="M48 44h48" stroke="#7fe3c2" stroke-width="4"/>
+  <text x="48" y="81" fill="#7fe3c2" font-family="monospace" font-size="14" letter-spacing="3">SECURITY / AUTOMATION / SYSTEMS</text>
+  <text x="45" y="160" fill="#f3f6fa" font-family="sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Vincent Plessy</text>
+  <text x="48" y="205" fill="#c0cddd" font-family="sans-serif" font-size="23">Software for real operational needs.</text>
+  <text x="48" y="257" fill="#95a9c0" font-family="monospace" font-size="15" letter-spacing="1">PYTHON · .NET · C · LINUX</text>
+  <g fill="none" stroke="#344d65" stroke-width="1.5">
+    <path d="M770 86h156v65h91v65h129"/><path d="M770 216h84v-65h72"/><path d="M1017 151h129"/>
+    <rect x="758" y="74" width="24" height="24" rx="3"/><rect x="758" y="204" width="24" height="24" rx="3"/>
+    <rect x="914" y="139" width="24" height="24" rx="3"/><rect x="1134" y="139" width="24" height="24" rx="3"/>
+    <rect x="1134" y="204" width="24" height="24" rx="3"/>
+  </g>
+  <g fill="#7fe3c2"><circle cx="770" cy="86" r="4"/><circle cx="926" cy="151" r="4"/><circle cx="1146" cy="216" r="4"/></g>
+  <g fill="#95a9c0" font-family="monospace" font-size="12" letter-spacing="2">
+    <text x="752" y="55">SIGNALS</text><text x="895" y="188">CONTROLS</text><text x="1107" y="255">TOOLS</text>
+  </g>
+</svg>
