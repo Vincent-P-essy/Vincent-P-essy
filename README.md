@@ -1,6 +1,8 @@
 # Vincent Plessy
 
-I'm a **security application developer apprentice at Société Générale** in the Cybersec Tooling team. I develop internal applications and APIs, automate security workflows, and work on CI/CD and secure deployments. I'm completing an **MSc in Cybersecurity at Epitech Paris (2026–2028)**.
+**Cybersecurity Analyst (Apprenticeship) · Société Générale · Cybersec Tooling**
+
+Since October 2026, I’ve been developing internal applications and APIs for cybersecurity teams, automating security checks, and working on CI/CD and secure deployments. I’m completing an **MSc in Cybersecurity at Epitech Paris (2026–2028)**.
 
 <p>
   <a href="https://www.linkedin.com/in/vincent-plessy-99852a36b">LinkedIn</a> &nbsp;·&nbsp;
@@ -15,11 +17,11 @@ These are personal projects with public source code.
 
 | Project | What I built |
 | :--- | :--- |
-| [CyberPass](https://github.com/Vincent-P-essy/CyberPass) | A security-evidence platform with organization-level access controls, human review of questionnaire responses, and expiring, revocable sharing links. Built with FastAPI, Next.js and PostgreSQL. |
-| [ci-security-gate](https://github.com/Vincent-P-essy/ci-security-gate) | A reusable GitHub Actions workflow that scans for secrets, audits Python dependencies, checks Dockerfiles and summarizes findings in a single report. |
 | [Security Audit Logger](https://github.com/Vincent-P-essy/Security-Audit-Logger) | A C#/.NET 8 API that records HTTP activity, applies anomaly detection rules and restricts access by role. Includes xUnit tests and a Trivy scan in CI. |
-| [Incident Tracker API](https://github.com/Vincent-P-essy/incident-tracker-api) | A Flask and PostgreSQL API for tracking security incidents, with JWT authentication, role-based authorization and rules for incident status changes. |
+| [ci-security-gate](https://github.com/Vincent-P-essy/ci-security-gate) | A reusable GitHub Actions workflow that scans for secrets, audits Python dependencies, checks Dockerfiles and summarizes findings in a single report. |
+| [CyberPass](https://github.com/Vincent-P-essy/CyberPass) | A security-evidence platform with organization-level access controls, human review of questionnaire responses, and expiring, revocable sharing links. Built with FastAPI, Next.js and PostgreSQL. |
 | [pcap-analyzer](https://github.com/Vincent-P-essy/pcap-analyzer) | A C/libpcap tool that analyzes network captures and outputs structured JSON findings. |
+| [Incident Tracker API](https://github.com/Vincent-P-essy/incident-tracker-api) | A Flask and PostgreSQL API for tracking security incidents, with JWT authentication, role-based authorization and rules for incident status changes. |
 | [DORA Compliance Engine](https://github.com/Vincent-P-essy/dora-compliance-engine) | A policy-as-code prototype for collecting evidence and evaluating selected controls with Python and OPA/Rego. |
 
 ## Previous experience
