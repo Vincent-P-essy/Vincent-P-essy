@@ -2,7 +2,10 @@
 
 **Cybersecurity Analyst (Apprenticeship) · Société Générale · Cybersec Tooling**
 
-Since October 2026, I’ve been developing internal applications and APIs for cybersecurity teams, automating security checks, and working on CI/CD and secure deployments. I’m completing an **MSc in Cybersecurity at Epitech Paris (2026–2028)**.
+Since October 2026, I have been working in Cybersec Tooling at Société Générale while completing an **MSc in Cybersecurity at Epitech Paris (2026–2028)**. My professional focus includes security tooling, data engineering, backend development and DevSecOps.
+
+- **Data engineering:** Python, Apache Spark, PySpark, SQL, Trino, S3, Power BI and shell scripting.
+- **Backend and DevSecOps:** FastAPI, CI/CD, GitHub Actions, Docker, security control automation and secure deployments.
 
 <p>
   <a href="https://www.linkedin.com/in/vincent-plessy-99852a36b">LinkedIn</a> &nbsp;·&nbsp;
@@ -26,13 +29,13 @@ These are personal projects with public source code.
 
 ## Previous experience
 
-**SNCF Voyageurs · Application Developer Apprentice**  
+**SNCF Voyageurs · Alternant DPx — Railway Applications & Automation**  
 I developed **Scénar’Express**, a decision-support application for railway operations teams. I took it from Power Apps to an offline web app and then to Android with Capacitor. Its interactive track map links directly to operational procedures.
 
 **Apex 3D · Co-founder and frontend developer**  
 I built a responsive product catalogue in HTML, CSS and JavaScript and deployed it on GitHub Pages.
 
-**Technical focus** · Python, FastAPI, Flask, C#/.NET, PostgreSQL, Docker, GitHub Actions, Linux and automated testing.
+**Technical focus** · Python, FastAPI, Flask, C#/.NET, Apache Spark, PySpark, S3, SQL, Trino, PostgreSQL, Power BI, shell scripting, Docker, GitHub Actions, Linux and automated testing.
 
 **Certifications** · Microsoft SC-900, Google Cybersecurity Professional Certificate and Fortinet Certified Fundamentals in Cybersecurity.
 
